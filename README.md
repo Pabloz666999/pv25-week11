@@ -1,9 +1,4 @@
 # pv25-week11
-
-# Tulis README.md ke dalam direktori project
-readme_path = os.path.join(project_root, "README.md")
-
-readme_content = """
 # 📚 pv25-week11 – PyQt5 CRUD Enhancement
 
 ## 👩‍💻 Nama: M. Bayu Aji 
